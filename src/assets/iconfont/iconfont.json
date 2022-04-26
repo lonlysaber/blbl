@@ -1,0 +1,51 @@
+{
+  "id": "3329692",
+  "name": "bilibili",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "10918080",
+      "name": "bilibili-line",
+      "font_class": "bilibili-line",
+      "unicode": "e75d",
+      "unicode_decimal": 59229
+    },
+    {
+      "icon_id": "25719106",
+      "name": "windmill",
+      "font_class": "windmill",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "27107522",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "28994777",
+      "name": "bilibili-line",
+      "font_class": "bilibili-line-copy",
+      "unicode": "e75e",
+      "unicode_decimal": 59230
+    },
+    {
+      "icon_id": "28994780",
+      "name": "home-copy",
+      "font_class": "home-copy",
+      "unicode": "e75f",
+      "unicode_decimal": 59231
+    },
+    {
+      "icon_id": "28994798",
+      "name": "windmill",
+      "font_class": "windmill-copy",
+      "unicode": "e760",
+      "unicode_decimal": 59232
+    }
+  ]
+}
